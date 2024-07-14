@@ -11,45 +11,25 @@ redirect_from:
 
 Education
 ======
-* PhD in Computer Science, University of Toronto, 2027 (expected)
-* HBSc, GitHub University, 2012
+* PhD in Computer Science, University of Toronto, 2023-2027 (expected)
+  * Supervisor: [Kuldeep Meel](https://www.cs.toronto.edu/~meel/)
+  * Research Interest: AI, Machine Learning, Automated Reasoning
 
-Work experience
+* HBSc, University of Toronto, 2021-2023
+  * Area of Study: Computer Science (Major), Mathematics (Minor), and Statistics (Minor).
+  * Cumulative GPA: 3.99/4.00
+  * Dean’s List Scholar for 2021-2023 academic terms.
+
+Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ontario Graduate Scholarship (OGS), 2024
+  * OGS is a merit-based scholarships to Ontario’s best graduate students in all disciplines of academic
+    study with a value of CA$15,000 for one year.
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -60,4 +40,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer
+  * Neural Information Processing Systems (Neurips 2024)
+  * Transactions on Machine Learning Research (TMLR 2024)

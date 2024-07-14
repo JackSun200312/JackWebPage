@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jack Sun / Academic Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jack Sun"
 description              : &description "CS Ph.D. at University of Toronto"
@@ -22,7 +22,7 @@ repository               : "JackSun72/JackSun72.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jialiang (Jack) Sun"
+  name             : "Jack Sun （孙嘉良）"
   pronouns         : 
   bio              : "CS Ph.D. at University of Toronto"
   location         : "Toronto, Canada"
@@ -48,7 +48,6 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # jack-sun-2741711b5
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -65,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : JackSun0000
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username

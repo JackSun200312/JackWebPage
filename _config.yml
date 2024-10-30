@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Jack Sun - CS Ph.D. at University of Toronto"
 title_separator          : "-"
 name                     : &name "Jack Sun"
-description              : &description "CS Ph.D. at University of Toronto"
+description              : &description "Homepage of Jack Sun, Ph.D. student in Computer Science at the University of Toronto."
 url                      : https://JackSun200312.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JackSun200312/JackSun200312.github.io"
@@ -112,8 +112,8 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
+google_site_verification : "NEghOGP8uqEZY6hKCdQFOl8CWAl36kAggIYK_eEliYk"
+bing_site_verification   : "C5ED048FE1DF410CC399D9020BEF10A0"
 alexa_site_verification  :
 yandex_site_verification :
 

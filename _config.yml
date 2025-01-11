@@ -22,7 +22,7 @@ repository               : "JackSun200312/JackSun200312.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jack Sun （孙嘉良）"
+  name             : "Jack Sun (孙嘉良)"
   pronouns         : 
   bio              : "CS Ph.D. at University of Toronto"
   location         : "Toronto, Canada"
@@ -206,7 +206,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true

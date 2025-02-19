@@ -13,4 +13,4 @@ particular, I aim to empower computers with the ability to perform mathematical 
 
 You can find my CV here [Jack Sun's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
-[Email](mailto:sjl@cs.toronto.edu) / [Github](https://github.com/JackSun72)
+[Email](mailto:sjl@cs.toronto.edu) / [Github]([https://github.com/JackSun72](https://github.com/JackSun200312))
